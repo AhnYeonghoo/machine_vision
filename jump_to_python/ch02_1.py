@@ -1,0 +1,19 @@
+a = 123
+a = -178
+a = 0
+a = 1.2
+a = -3.45
+a = 4.24E10
+a = 4.24e-10
+a = 0o177
+a = 0x8ff
+b = 0xABC
+a = 3
+b = 4
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+print(a ** b)
+print(7 % 3)
+print(3 % 7)
